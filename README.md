@@ -17,10 +17,12 @@ Purpose: Communication & resource sharing.
 *Networking in Devops* 
 
 ![image](https://github.com/user-attachments/assets/373eafc6-5e07-4215-8745-7627576010eb)
+
 -----------------------------------------------------------------------------------------------------------
 **LAN & WAN**
 
 ![image](https://github.com/user-attachments/assets/58be542d-317d-4312-bdfc-daae9d3bb6c7)
+
 ----------------------------------------------------------------------------------------------------------
 **Switches, Routers and Firewalls**
 
