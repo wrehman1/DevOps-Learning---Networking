@@ -7,6 +7,7 @@ Definition: Connecting devices to share information.
 Purpose: Communication & resource sharing. 
 
 *Core types of Networks:* 
+
   • LAN - Local Area Network (Home network. Small & covers a limited area)
   
   • WAN - Wide Area Network (Wider range. Institutions and businesses etc)
