@@ -44,7 +44,7 @@ Ports are logical doors on the device. Each door is numbered and each number for
 
 Protocols are rules governing data transmission. They define how data is formatted and transmitted across a network. Protocols ensure that devices can communicate effectively by following the same set of rules.
 
-*Transmission Control Protocol (TCP)* is the postman of the internet. It ensures data sent from one device reaches another device accurately and in the correct order. It's a protocol, which means that it's a set of rules that devies follow to communicate with each other. "Hannshake" - to confirm that you are on the same page. TCP ensures data is delivered in order. TCP checks for errors and controls the flow of data to prevent congestion, ensuring smooth and error free communication. TCP is used whenever two devices need to exchange data back and forth e.g. web browsing, emails & file transfers. 
+*Transmission Control Protocol (TCP)* is the postman of the internet. It ensures data sent from one device reaches another device accurately and in the correct order. It's a protocol, which means that it's a set of rules that devies follow to communicate with each other. "Handshake" - to confirm that you are on the same page. TCP ensures data is delivered in order. TCP checks for errors and controls the flow of data to prevent congestion, ensuring smooth and error free communication. TCP is used whenever two devices need to exchange data back and forth e.g. web browsing, emails & file transfers. 
 
 *User Diagram Protocol (UDP*) is connectionless. It is a simple protocol to send and receive data. No Prior conmmunication needed. Data can be sent immediately without waiting to establish a conenction, downside is that there is no guarantee that data will reach its destination. UDP is faster than TCP however speed comes at a cost of reliability. Suitable for real-time apps like video streaming, online gaming etc. 
 
@@ -75,6 +75,27 @@ Layer 7: Provides network services directly to the applications.
 **TCP/IP Model: A Commonly Used Model**
 
 ![image](https://github.com/user-attachments/assets/34ed54fa-24a8-4dbc-94ef-97eadb235359)
+
+--------------------------------------------------------------------------------------------------------------------------- 
+**OSI layers: POV of Sender & Receiver**
+
+![image](https://github.com/user-attachments/assets/e7663b7e-c0f4-47c1-bd9f-aea54e47f983)
+
+![image](https://github.com/user-attachments/assets/1506fdb0-d33d-40cd-984a-e449a6ebf493)
+
+-----------------------------------------------------------------------------------------------------------------------------
+**What is DNS (Domain Name System)**
+
+DNS allows humans to keep track of websites and hosts by name instead of an IP address. Bit like a contact list where you know somenone by name but cannot remember their phone number. DNS translates domain name into IP addresses. In networking, DNS simplifies navigation on the internet. It is essential for accessing websites and services. 
+
+----------------------------------------------------------------------------------------------------------------------------
+**DNS Components: Nameservers & Zone Files.**
+
+*Name Servers* - • Load DNS setting and configurations. • Can be authoritative or recursive. 
+
+*Zone Files* - •Store information about the domain. • Organised and readable format. 
+
+
 
 
 
