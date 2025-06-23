@@ -115,7 +115,21 @@ DNS allows humans to keep track of websites and hosts by name instead of an IP a
 
 ![image](https://github.com/user-attachments/assets/d4a8f561-5d16-49b4-bd82-7f9ce3a2df86)
 
+-----------------------------------------------------------------------------------------------------------------------------
+**Understanding the /etc/hosts file**
 
+*What is /etc/hosts?* 
+
+- It is a local file on the computer. It maps the domain name to the IP addresses. It takes precedence over DNS for specific entries.  
+
+-----------------------------------------------------------------------------------------------------------------------------
+**Routing**
+
+![image](https://github.com/user-attachments/assets/97f674b8-6e91-473e-a42b-00661f0aea3c)
+
+![image](https://github.com/user-attachments/assets/158cd49f-dc22-46fe-b388-51b2faec2524)
+
+![image](https://github.com/user-attachments/assets/8954d952-ca55-467b-95c3-9713edcafa6f)
 
 
 
