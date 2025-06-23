@@ -95,6 +95,26 @@ DNS allows humans to keep track of websites and hosts by name instead of an IP a
 
 *Zone Files* - •Store information about the domain. • Organised and readable format. 
 
+----------------------------------------------------------------------------------------------------------------------------
+**DNS Records**
+
+![image](https://github.com/user-attachments/assets/cc166dc7-b3bc-4ef9-9cb6-e3695306903e)
+
+-----------------------------------------------------------------------------------------------------------------------------
+**DNS Hierarchy & Distribution**
+
+![image](https://github.com/user-attachments/assets/af89ecd7-a58a-4366-bb59-f44926050920)
+
+-----------------------------------------------------------------------------------------------------------------------------
+**DNS Resolution Process**
+
+![image](https://github.com/user-attachments/assets/098613da-f692-409a-b6e9-f6e39e7166f5)
+
+-----------------------------------------------------------------------------------------------------------------------------
+**How Does DNS Work??**
+
+![image](https://github.com/user-attachments/assets/d4a8f561-5d16-49b4-bd82-7f9ce3a2df86)
+
 
 
 
