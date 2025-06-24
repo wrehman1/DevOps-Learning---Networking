@@ -131,7 +131,19 @@ DNS allows humans to keep track of websites and hosts by name instead of an IP a
 
 ![image](https://github.com/user-attachments/assets/8954d952-ca55-467b-95c3-9713edcafa6f)
 
+----------------------------------------------------------------------------------------------------------------------------
+**Static vs. Dynamic Routing**
 
+Static routing involves manually configuring routes in the network. These routes are **fixed** and do not change unless mainly updated by **network admin**. Static routing is simple to set up but it is not scalable. It is great for small and stable networks for small companies. 
+
+Dynamic routing automatically adjusts routes based on current network conditions. It's like having a smart GPS that updates the route if there is traffic or roadblock. Dynamic routing relies on route protocols to find the best path for data. These protocols help routers communicate and decide on the most efficient route. Benefit of dynamic routing compared to static is that it is scalable and adaptable, making it suitable for large and complex networks. It responds to changes in the network, e.g. new devices or failed connections without manual intervention. Dynamic routing protocols **automatically** update routes to optimise the traffice flow and handle network changes seamlessly. 
+
+----------------------------------------------------------------------------------------------------------------------------
+**Common Routing Protocols**
+
+The use algorithms to figure out the best paths for data to travel from one place to another. Routing protocols are important because they automate route updates and improve network resilience by finding alternative paths.
+
+##OSPF and BGP
 
 
 
