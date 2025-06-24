@@ -143,7 +143,7 @@ Dynamic routing automatically adjusts routes based on current network conditions
 
 The use algorithms to figure out the best paths for data to travel from one place to another. Routing protocols are important because they automate route updates and improve network resilience by finding alternative paths.
 
-##OSPF and BGP
+#OSPF and BGP
 
 
 
