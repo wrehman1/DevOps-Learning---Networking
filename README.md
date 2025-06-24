@@ -150,4 +150,32 @@ BGP - Border Gateway Protocol. It is used to route data between different autono
 ----------------------------------------------------------------------------------------------------------------------------
 **Subnetting & CIDR**
 
+![image](https://github.com/user-attachments/assets/70625e40-a8c2-4e14-94cf-022c63238f45)
+
+CIDR - Classless Inter Domain Routing. A method for allocating IP addresses and routing IP packets.
+
+----------------------------------------------------------------------------------------------------------------------------
+**Binary: Yep 1s and 0s**
+
+![image](https://github.com/user-attachments/assets/2d8af2cc-06be-4303-ab56-eb73e7b64d62)
+
+![image](https://github.com/user-attachments/assets/99cf1f51-89e7-4b16-bb00-3704e893817b)
+
+----------------------------------------------------------------------------------------------------------------------------
+**Calculating Subnets**
+
+Subnetting is process of dividing a large network into smaller subnetworks, known as Subnets. This process helps to organise and manage IP addresses much more efficiently. Subnetting determines which part on the IP address is the network portion and which part is the host portion. 
+
+Subnet Mask - Used to divide an IP address into a network and host portions. It helps routers determine which part of an IP address is the network address, and which part is the host address. 
+
+![image](https://github.com/user-attachments/assets/217293e5-5b0a-4a7b-aab3-f8bf132b7648)
+
+
+
+
+
+
+
+
+
 
