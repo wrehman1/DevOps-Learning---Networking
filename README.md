@@ -141,9 +141,13 @@ Dynamic routing automatically adjusts routes based on current network conditions
 ----------------------------------------------------------------------------------------------------------------------------
 **Common Routing Protocols**
 
-The use algorithms to figure out the best paths for data to travel from one place to another. Routing protocols are important because they automate route updates and improve network resilience by finding alternative paths.
+The use algorithms to figure out the best paths for data to travel from one place to another. Routing protocols are important because they automate route updates and improve network resilience by finding alternative paths. 
 
-#OSPF and BGP
+OSPF - Open Shortest Path First. It finds the shortest path for data to travel. It is used mainly within large organisations. It uses **Link State Information** to make routing decisions, which means it considers the status of a network, links and costs to use them. It can quickly recalculate routes when there are changes in the network.
 
+BGP - Border Gateway Protocol. It is used to route data between different autonomous systems. BGP uses a **PAth Vector Mechanism**. This means it maintains the path formation that gets updated dynamically as the network topology changes. BGP allows network admins to define routing policies based on various attributes, this provides greater control on how traffic flows through the network. 
+
+----------------------------------------------------------------------------------------------------------------------------
+**Subnetting & CIDR**
 
 
