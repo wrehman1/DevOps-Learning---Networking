@@ -177,13 +177,15 @@ NAT translates private IP addresses into public address.
 
 **Types of NATs**
 
-Static NAT: Maps a single private IP address to a single public IP address (like having a dedicated translator for just one device). 
+Static NAT: Maps a single private IP address to a single public IP address (like having a dedicated translator for just one device). Static NAT is one-to-one mapping for fixed IP nneds.
 
-Dynamic NAT: Maps a private IP address to one of many public IP addresses from a pool
+Dynamic NAT: Maps a private IP address to one of many public IP addresses from a pool. 
 
-PAT (Port Address Translation): 
+PAT (Port Address Translation): Known as NAT overload. PAT is very efficient because it allows multiple devices on a local network to be mapped to a single public IP address but with different port numbers. PAT uses a single public IP from multiple devices by assigning different port numbers. 
 
+**Troubleshoot with ping, traceroute, nslookup!**
 
+'ping' - 
 
 
 
