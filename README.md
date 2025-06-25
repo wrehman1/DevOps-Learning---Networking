@@ -170,10 +170,18 @@ Subnet Mask - Used to divide an IP address into a network and host portions. It 
 
 ![image](https://github.com/user-attachments/assets/217293e5-5b0a-4a7b-aab3-f8bf132b7648)
 
+----------------------------------------------------------------------------------------------------------------------------
+**NAT (Network Address Translation)**
 
+NAT translates private IP addresses into public address. 
 
+**Types of NATs**
 
+Static NAT: Maps a single private IP address to a single public IP address (like having a dedicated translator for just one device). 
 
+Dynamic NAT: Maps a private IP address to one of many public IP addresses from a pool
+
+PAT (Port Address Translation): 
 
 
 
