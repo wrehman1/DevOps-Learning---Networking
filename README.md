@@ -185,7 +185,39 @@ PAT (Port Address Translation): Known as NAT overload. PAT is very efficient bec
 
 **Troubleshoot with ping, traceroute, nslookup!**
 
-'ping' - 
+`ping` - It is a command to test any connectivity between devices. E.g ping google.com.
 
+`traceroute` - This command tracks the path of the data to reach its certain destination.  E.g. traceroute google.com. 
 
+`nslookup` - Another basic tool for querying DNS to find an IP address associated with domain name. E.g. nslookup google.com.
 
+*Practical Example: "I can't reach a website, how can I troubleshoot?"* 
+
+1. Check network connectivity - ensure machine has working netwrok connection. Use ping command. Then, do a dig or nslookup command to verify there is no issue with the DNS. 
+
+2. Check host file - ensure there is no overiding entries.
+
+3. Check Firewall rules - enbsure a firewall is not blocking any outgoing/incoming traffic.
+
+4. Check browser issues - Ensure to close the browser and start it again.
+
+5. Check DNS cache - It may need to be cleared
+
+6. Check system logs - do the traceroute command to check for netowrk hops.
+
+----------------------------------------------------------------------------------------------------------------------------
+**Cloud Networking!**
+
+Cloud networking is the practice of managing and configuring networks in cloud environments. 
+
+Very important in devops - Ensures that our applications and services can communicate efficiently and securely.
+
+*Key components*
+
+• VPCs (Virtual Provate Clouds) - It is a private network in the cloud. It can define the IP address range, create subnets and configure route tables and gateways. It is like a data centre but in the cloud. 
+
+• Subnets - Help to organise a network and control the flow of traffic. You can have different subnets for different types of resources e.g. one for application server, one for databases etc. 
+
+• Gateways - What connects the VPC to the outside world e.g. the internet. They handle incoming/outgoing traffic and ensure the resources can communicate with external networks 
+
+----------------------------------------------------------------------------------------------------------------------------
