@@ -288,8 +288,11 @@ ssh -i your-key.pem ec2-user@<enter IP address here>
 Installed and start NGINX on the termiinal: 
 
 `sudo dnf update -y`
+
 `sudo dnf install nginx -y`
+
 `sudo systemctl enable nginx`
+
 `sudo systemctl start nginx`
 
 Tested this:
