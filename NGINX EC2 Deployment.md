@@ -101,4 +101,5 @@ Subdomain: nginx.mwaqar.co.uk
 
 Managed via Cloudflare
 
+![image](https://github.com/user-attachments/assets/1eaae179-966e-4967-9cf4-c951979c724c)
 
